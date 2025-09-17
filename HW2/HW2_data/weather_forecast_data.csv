@@ -1,0 +1,13 @@
+sky_condition,temperature_band,humidity,wind_direction,forecast
+cloudy,mild,low,W,rain
+clear,hot,low,W,sun
+clear,extreme,high,E,sun
+cloudy,mild,low,S,sun
+clear,hot,low,W,rain
+cloudy,mild,low,E,sun
+clear,cold,low,W,rain
+clear,cold,high,N,rain
+cloudy,mild,high,S,sun
+cloudy,hot,high,E,sun
+cloudy,hot,low,E,sun
+clear,hot,high,E,rain
