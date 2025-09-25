@@ -7,37 +7,26 @@
 ---
 
 ## Repository Structure
-.
-├── HW1/
-│ ├── HW1_H24.pdf
-│ ├── HW1_Q2.ipynb
-│ ├── HW1_Q3.ipynb
-│ ├── HW1_Q7.ipynb
-│ └── HW1_data/
-│ ├── iris/
-│ │ ├── iris.csv
-│ │ └── iris.names
-│ └── wine/
-│ ├── wine.data
-│ ├── wine.names
-│ └── Index
-│
-├── HW2/
-│ ├── HW2_H24.pdf
-│ ├── HW2_Q1.ipynb
-│ ├── b.iv_normalization_pca_knn_p4_results.csv
-│ ├── c.iv_standardization_pca_knn_p4_results.csv
-│ └── HW2_data/
-│ ├── luckyday.csv
-│ ├── pca_test.csv
-│ ├── pca_train.csv
-│ └── weather_forecast_data.csv
-│
-└── HW3/
-├── HW3_H24.pdf
-├── HW3_Q1.ipynb
-└── HW3_data/
-└── cv+knn.csv
+- **HW1/**
+  - HW1_H24.pdf — 문제 풀이 PDF
+  - HW1_Q2.ipynb — Q2 NumPy 코드
+  - HW1_Q3.ipynb — Q3 pandas, matplotlib 코드
+  - HW1_Q7.ipynb — Q7 pandas, distance metrics 코드
+  - HW1_data/
+    - iris (iris.csv, iris.names)
+    - wine (wine.data, wine.names, Index)
+
+- **HW2/**
+  - HW2_H24.pdf — 문제 풀이 PDF
+  - HW2_Q1.ipynb — PCA & KNN 코드
+  - b.iv_normalization_pca_knn_p4_results.csv
+  - c.iv_standardization_pca_knn_p4_results.csv
+  - HW2_data/ (luckyday.csv, pca_test.csv, pca_train.csv, weather_forecast_data.csv)
+
+- **HW3/**
+  - HW3_H24.pdf — 문제 풀이 PDF
+  - HW3_Q1.ipynb — CV + KNN 코드
+  - HW3_data/cv+knn.csv
 
 ## Description
 
